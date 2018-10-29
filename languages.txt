@@ -3,5 +3,5 @@ java
 kotlin
 scala
 ruby
-javascript
+swift
 rust
